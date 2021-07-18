@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Platinum_7578 {
+public class Platinum_5_7578 {
 
   static class SegTree {
     int count[];
